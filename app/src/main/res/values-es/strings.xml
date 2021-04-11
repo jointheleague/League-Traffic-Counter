@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LEAGUEtraffic</string>
+    <string name="id_hint">Número de identificación por LEAGUEtraffic</string>
+    <string name="monitor_btn_text">Comienzo</string>
+    <string name="header">Bienvenidos a LEAGUEtraffic</string>
+</resources>
